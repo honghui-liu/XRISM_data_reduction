@@ -4,7 +4,8 @@ Scripts to reduce XRISM data to obtain lightcurves and spectra from Resolve and 
 
 ## Tutorials & useful links
 
-- The XRISM guide: https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/POG/Contents.html
+- The XRISM overview: https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/POG/Contents.html
+- The XRISM ABC guide: https://heasarc.gsfc.nasa.gov/docs/xrism/analysis/abc_guide/xrism_abc.pdf
 - The quickstart guide: https://heasarc.gsfc.nasa.gov/docs/xrism/analysis/quickstart/index.html
 - Things to watch out for (TTWOF): https://heasarc.gsfc.nasa.gov/docs/xrism/analysis/ttwof/
 
